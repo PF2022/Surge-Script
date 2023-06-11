@@ -1,4 +1,6 @@
+#EXTM3U
+#EXTINF:-1 ,TVB翡翠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5934f385-c221-41fc-af36-81bc794e83f1.m3u8
+#EXTINF:-1 ,香港台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
