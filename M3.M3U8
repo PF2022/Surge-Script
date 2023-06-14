@@ -11,6 +11,20 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 ,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 ,俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,俄罗斯GITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+#EXTINF:-1 ,美国中文台
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,澳门卫视 
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,澳门信息
+http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+#EXTINF:-1 ,澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,澳门葡语
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 #EXTINF:-1 ,广州竞赛
 http://live.cooltv.top/tv/guangzhou.php?id=gzjs
 #EXTINF:-1 ,广州新闻
@@ -21,3 +35,5 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzys
 http://live.cooltv.top/tv/guangzhou.php?id=gzfz
 #EXTINF:-1 ,广州综合
 http://live.cooltv.top/tv/guangzhou.php?id=gzzh
+#EXTINF:-1 ,卡酷少儿
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
