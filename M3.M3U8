@@ -11,3 +11,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 ,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 ,广州竞赛
+http://live.cooltv.top/tv/guangzhou.php?id=gzjs
+#EXTINF:-1 ,广州新闻
+http://live.cooltv.top/tv/guangzhou.php?id=gzxw
+#EXTINF:-1 ,广州影视
+http://live.cooltv.top/tv/guangzhou.php?id=gzys
+#EXTINF:-1 ,广州法治
+http://live.cooltv.top/tv/guangzhou.php?id=gzfz
