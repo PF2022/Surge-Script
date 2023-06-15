@@ -7,8 +7,8 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8e
 https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 #EXTINF:-1 ,凤凰卫视中文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 ,凤凰卫视中文台HD
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,广东体育高清
+http://113.117.74.32:8081/hls/1/index.m3u8
 #EXTINF:-1 ,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,俄罗斯中文
