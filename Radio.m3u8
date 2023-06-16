@@ -1,0 +1,34 @@
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="央广国广",HITFM劲曲调频广州
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="央广国广",HITFM劲曲调频北京
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cnrgoldenradio.png" group-title="央广国广",经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cnrmusicradio.png" group-title="央广国广",音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/ezfm.png" group-title="央广国广",轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="央广国广",环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="央广国广", CGTN Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/voc.jpg" group-title="央广国广",中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT%2F202301%2F19%2F09%2FqHSZVxUnOY1ZDXNLYeEEfeTpkhj722023011909122.jpg" group-title="央广国广",经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cmgradio/wyzs.png" group-title="央广国广",文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐",江苏音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsjdlxyygb.png" group-title="音乐",江苏经典流行音乐广播
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/hubjdyy.png" group-title="音乐",湖北经典音乐广播
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sdjdyygb.png" group-title="音乐",山东经典音乐广播
+http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/lnjdyy.png" group-title="音乐",辽宁经典音乐广播
+http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/fjyy.png" group-title="音乐",福建汽车音乐广播
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
