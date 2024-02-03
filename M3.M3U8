@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,TVB翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-627ae076-27c0-4c60-a0bb-d2faf3931b05.m3u8
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 ,香港台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 #EXTINF:-1 ,凤凰卫视
