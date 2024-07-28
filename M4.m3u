@@ -14,7 +14,7 @@ http://cdn-m3u.hkdtmb.com/78/index.m3u8?token=YRglNekfUXSsDcgfA9AxYg&expires=173
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
 http://cdn-m3u.hkdtmb.com/76/index.m3u8?token=XI86Gvo7-TYffwOTv9mQ7w&expires=1730571099
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
-http://cdn-m3u.hkdtmb.com/81/index.m3u8?token=BRr9r17MS7m7GKUTYUhU4Q&expires=1730571099
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
 http://cdn-m3u.hkdtmb.com/82/index.m3u8?token=6OKJoWiIkxMmFSXm98_BQA&expires=1730571099
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
